@@ -1,9 +1,9 @@
 <p align="center">
-  <img alt="Programming" width="500" src="https://user-images.githubusercontent.com/74038190/243078834-72903324-cf57-4e90-80a6-ed3c9734e0ed.gif">
+  <img alt="Programming" width="500" src="https://user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif">
 </p>
 <h1 align="center">Hi 👋, I'm Gabriel</h1>
 <h3 align="center">A passionate software engineer from Singapore 🇸🇬</h3>
-<img align="right" alt="Programming" width="250" src="https://user-images.githubusercontent.com/74038190/264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863.gif">
+<img align="right" alt="Programming" width="300" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabew8&label=Profile%20views&color=0e75b6&style=flat" alt="gabew8" /> </p>
@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/gabriel-wong-jy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel-wong-jy" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gabriel-wong-jy" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="gabriel-wong-jy" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
