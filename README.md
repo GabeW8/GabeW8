@@ -1,13 +1,16 @@
+<p align="center">
+  <img alt="Programming" width="550" src="https://user-images.githubusercontent.com/74038190/243078834-72903324-cf57-4e90-80a6-ed3c9734e0ed.gif">
+</p>
 <h1 align="center">Hi 👋, I'm Gabriel</h1>
 <h3 align="center">A passionate software engineer from Singapore 🇸🇬</h3>
+<img align="right" alt="Programming" width="250" src="https://user-images.githubusercontent.com/74038190/264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabew8&label=Profile%20views&color=0e75b6&style=flat" alt="gabew8" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/GabeW8](https://github.com/GabeW8)
 
-- 📫 How to reach me **gabrielwong.2021@scis.smu.edu.sg**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1OestTCi6u5l11P9y6PU7HeujNwZtn1Sh/view?usp=sharing](https://drive.google.com/file/d/1OestTCi6u5l11P9y6PU7HeujNwZtn1Sh/view?usp=sharing)
+- 📫 Reach me at **gabrielwong.2021@scis.smu.edu.sg**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
