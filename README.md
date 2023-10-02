@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Programming" width="500" src="https://user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif">
+  <img alt="Programming" width="400" src="https://user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif">
 </p>
 <h1 align="center">Hi 👋, I'm Gabriel</h1>
 <h3 align="center">A passionate software engineer from Singapore 🇸🇬</h3>
