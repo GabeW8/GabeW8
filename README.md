@@ -1,8 +1,11 @@
 <p align="center">
   <img alt="Programming" width="400" src="https://user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif">
 </p>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Adaptable,+Innovative,+Resilient"></a>
+</p>
 <h1 align="center">Hello! I'm Gabriel</h1>
-<h3 align="center">An adaptable, innovative, and resilient student studying Information Systems from Singapore 🇸🇬</h3>
 <img align="right" alt="Programming" width="300" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif">
 
 
